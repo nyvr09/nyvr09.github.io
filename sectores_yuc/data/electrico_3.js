@@ -1,0 +1,1 @@
+var json_electrico_3 = {"type":"FeatureCollection","name":"electrico_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nom_estab":"ARGOS ELECTRICA","Rama":"Fabricación de otros equipos y accesorios eléctricos","municipio":"Mérida"},"geometry":{"type":"Point","coordinates":[-89.70519423,20.9488744]}}]}

@@ -1,0 +1,1 @@
+var json_aeroespacial_4 = {"type":"FeatureCollection","name":"aeroespacial_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nom_estab":"PCC AIRFOILS","Rama":"Fabricación de equipo aeroespacial","municipio":"Mérida"},"geometry":{"type":"Point","coordinates":[-89.69191823,20.93158781]}}]}
